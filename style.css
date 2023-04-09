@@ -1,0 +1,35 @@
+.w-50 {
+    width: 25rem!important;
+}
+
+.btn-pri {
+    --bs-btn-bg:#487AFA;
+}
+
+.btn-danger {
+    --bs-btn-bg: #d02727e4;
+}
+
+#popup-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #d3dadb;
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: none;
+}
+
+#popup-box1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #d3dadb;
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: none;
+}
+
+
